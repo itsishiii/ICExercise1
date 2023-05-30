@@ -58,7 +58,7 @@ public class CardTrick extends Card {
     private static void printInfo() {
     
         System.out.println("Congratulations, you guessed right!");
-        System.out.println();
+        System.out.println(I'M DONE');
         
         System.out.println("My name is Ishika, but you can call me Ishi");
         System.out.println();
